@@ -1,0 +1,26 @@
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: #20232B }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #04a76b;
+}  
+
+.tt-code-list {
+    font-family: Georgia, serif;
+    line-height: 2em;
+    color: rgb(98, 146, 92);
+} 
+a {
+    font-family: Merriweather, Sans;
+    font-size: 20px;
+    color: rgb(126, 172, 120);
+  }
